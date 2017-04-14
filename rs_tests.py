@@ -1,7 +1,8 @@
 #Tests for the reading_speed program
-def func(introduction):
-    return " "
+def introduction():
+    return "Hello! Please answer the following \
+    questions to the best of your ability. (Press enter to continue)"
 
-def test_answer():
-    assert func(introduction) == "Hello! Please answer the following \
+def test_introduction():
+    assert introduction == "Hello! Please answer the following \
     questions to the best of your ability. (Press enter to continue)"

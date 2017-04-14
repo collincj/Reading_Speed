@@ -1,7 +1,7 @@
 #A program to determine your reading speed
 #This program is a precursor for a future program to investigate a correlation
 #between reading speed and book format
-#Python3 syntax used
+#Python3 syntax
 
 #declare variables
 introduction = " "
