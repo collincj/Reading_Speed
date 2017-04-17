@@ -6,3 +6,6 @@ def introduction():
 def test_introduction():
     assert introduction == "Hello! Please answer the following \
     questions to the best of your ability. (Press enter to continue)"
+
+def test2_intro():
+    
