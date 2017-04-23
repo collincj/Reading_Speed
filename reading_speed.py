@@ -20,7 +20,7 @@ book_name = input("Which book have you just read?")
 
 pages_read = float(input("How many pages did you read?"))
 
-reading_time = float(input("How long did you read?"))
+reading_time = float(input("How many minutes did you read for?"))
 
 #do processing
 rs = pages_read / reading_time
